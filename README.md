@@ -9,10 +9,13 @@ A python package for analyzing and visualizing pdb and xyz files. for MolSSI May
 
 This repository is currently under development. To developmental install, download this repository and type
 
-`pip install -e .`
+pip install -e .'
 
 in the repository directory.
 
+This package requires the following packages:
+- NumPy
+- Matplotlib
 
 
 ### Copyright
